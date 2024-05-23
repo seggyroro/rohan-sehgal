@@ -1,7 +1,7 @@
 title: "Rohan Sehgal"
 email: rohan98sehgal@gmail.com
 timezone: UTC
-baseurl: "/rohan-sehgal"
+url: "https://rohansehgal.in"
 permalink: "/:title/"
 logo: 'assets/images/icon.png'
 favicon: 'assets/images/icon.ico'
